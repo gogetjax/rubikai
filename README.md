@@ -9,6 +9,7 @@ This file describes the project layout structure and some quick basics
 for running the core program and viewer. For more in-depth information,
 please refer to the wiki.
 
+```ignore
 -=Directory Structure=-
 
 rubikai/              # Project root directory
@@ -100,7 +101,7 @@ rubikai/              # Project root directory
   Follow a similar edit cycle for any changes made here. You only need
   to run qmake if you edit the *.pro file or add any new source files,
   otherwise you would just need to run the "make" utility.
-
+```
 
 Enjoy!
 
