@@ -1,4 +1,5 @@
-RubikAI
+# RubikAI
+## Christopher Jackson (@gogetjax)
 
 Thank you for your interest in RubikAI.  It's an excitng problem to
 tackle and I find that it also serves as a great playground for
@@ -103,6 +104,7 @@ rubikai/              # Project root directory
 
 Enjoy!
 
+Follow me on X: [@gogetjax](https://x.com/gogetjax)
 
 
 
